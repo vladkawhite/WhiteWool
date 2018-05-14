@@ -1,3 +1,19 @@
+$.ajax({
+    URL: 'https://tranquil-sierra-86540.herokuapp.com/belyy19699@gmail.com',
+    method: 'POST',
+
+    data: {
+
+        name: '',
+
+        surname: ''
+
+    },
+
+    dataType: 'json'
+
+});
+
 (function() {
 
 	let inputs = document.createElement('input');
@@ -31,3 +47,4 @@
 	}
 
 })();
+
