@@ -2,6 +2,10 @@
     background-image: url('../images/simless.png');
 }
 
+.body{
+    margin: auto;
+}
+
 .textinblock {
     color: #001a33;
     font-size: 1.5em;
