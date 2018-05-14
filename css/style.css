@@ -1,0 +1,56 @@
+.page {
+    background-image: url('../images/simless.png');
+}
+
+
+.textinblock {
+    color: #001a33;
+    font-size: 1.5em;
+    width: 350px;
+    word-wrap: break-word;
+}
+
+.intro {
+    max-width: 400px;
+    margin-top: 150px;
+    text-align: center;
+}
+
+.card {
+    height: 100%;
+}
+
+.alert {
+    position: fixed;
+    top: 50px;
+    width: 50%;
+    left: 25%;
+    z-index: 1051;
+}
+
+.btn {
+    padding: 0.75rem 0.7rem;
+}
+
+.h2#product {
+    margin: 25px;
+    margin-top: 40px;
+}
+
+.table-responsive {
+    margin: 25px auto;
+    font-size: 18px;
+    width: 70%;
+    color: #001a33;
+    padding: 3rem;
+    max-width: 1000px;
+}
+
+.container {
+    margin: 25px;
+}
+
+.map {
+    margin-top: 100px;
+
+}
